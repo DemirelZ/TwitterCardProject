@@ -10,12 +10,8 @@
 
 # TwitterCardProject
 
-<h2> Used Technologies </h2>
-
 Bu proje HTML CSS ve JavaScript kullanılarak oluşturulmuştur. </br>
 </br>
-Click on the link to see the live version of the website:</br>
-https://zzaferr.github.io/AddUsers/
 
 <h2> Find the screen gif below </h2> 
 
