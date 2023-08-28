@@ -35,7 +35,7 @@ const validateTweet = (element) => {
 
   let text;
 
-  let tweetLimit = 5;
+  let tweetLimit = 15;
 
   if (tweetLength <= 0) {
     placeholder.style.display = "flex";
